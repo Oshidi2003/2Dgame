@@ -1,0 +1,44 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>2D Game</title>
+    <link rel="stylesheet" href="Style.css">
+</head>
+<body class="body" onkeyup="key(event);">
+    <div class="div1" id="div1">
+        <p class="score" id="score">0</p>
+        <img src="Run (1).png" class="boy" id="boy" alt="sprit img"/>
+        
+
+
+    </div>
+    
+    <div class="end" id="end">
+     <div class="game">Game Over</div>
+     <div class="game">Your Score is</div>
+     <div class="game" id="endscore">0</div>
+     <button class="btn" onclick="restart();">Try Again</button>
+
+
+     
+    <div class="win" id="win">
+        <div class="game">Congratulations!!</div>
+        <div class="game">You won level 1</div>
+        <div class="game" id="win1">High</div>
+        <button class="btnwin" onclick="restart();">Try Next Level</button>
+   
+
+        
+
+
+    </div>
+
+    
+
+
+
+    <Script src="script.js"></Script>
+</body>
+</html>
