@@ -1,2 +1,2 @@
-# argongame
-Building a 2D sprites animation game using pure HTML, CSS, and JavaScript for argon techno team
+# 2D Game
+My first Year 2D Game Project
