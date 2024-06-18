@@ -6,7 +6,7 @@ My first Year 2D Game Project
 ![image](https://github.com/Oshidi2003/2Dgame/assets/156042624/62afe1f0-4626-48b6-9622-6252c618bc47)
 ![img2](https://github.com/Oshidi2003/2Dgame/assets/156042624/6f602ee9-72e1-4e67-865c-d8a8bbdbf818)
 ![img4](https://github.com/Oshidi2003/2Dgame/assets/156042624/d4c3a73d-2d7c-4cd2-972a-62d2445c7d39)
-![img4](https://github.com/Oshidi2003/2Dgame/assets/156042624/6a5e3e47-d6e7-4bd1-aeaf-f89e44e3c6c1)
+
 
 
 ## 2D Running and Jumping Game
