@@ -4,6 +4,7 @@ My first Year 2D Game Project
 Sure, here's a detailed description for your 2D game project that you can use to update your GitHub account:
 
 ---
+![image](https://github.com/Oshidi2003/2Dgame/assets/156042624/62afe1f0-4626-48b6-9622-6252c618bc47)
 
 ## 2D Running and Jumping Game
 
