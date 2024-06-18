@@ -4,7 +4,13 @@ My first Year 2D Game Project
 
 ---
 ![image](https://github.com/Oshidi2003/2Dgame/assets/156042624/62afe1f0-4626-48b6-9622-6252c618bc47)
+
+![img5](https://github.com/Oshidi2003/2Dgame/assets/156042624/a5978c39-0d71-4a61-a6b0-2f7d62779a54)
+
+![img3](https://github.com/Oshidi2003/2Dgame/assets/156042624/91c6f0b3-26d8-41fa-9010-97020b79ca89)
+
 ![img2](https://github.com/Oshidi2003/2Dgame/assets/156042624/6f602ee9-72e1-4e67-865c-d8a8bbdbf818)
+
 ![img4](https://github.com/Oshidi2003/2Dgame/assets/156042624/d4c3a73d-2d7c-4cd2-972a-62d2445c7d39)
 
 
